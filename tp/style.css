@@ -1,0 +1,23 @@
+.box{
+    bottom: -34px;
+    left: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    color: brown;
+}
+.forme{
+    width: 50%;
+    text-align: center;
+}
+.tab td input{
+    width: 100% !important;
+
+}
+.tab tr {
+    height: 60px;
+}
+#teb td{
+width: 100%;
+}
